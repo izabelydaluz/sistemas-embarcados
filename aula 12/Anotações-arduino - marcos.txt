@@ -1,0 +1,14 @@
+colocar entre{}
+colocar ; no final
+setup:configurar o arduino / roda 1 vez
+loop: ciclo/ repetição
+
+v -> ver se a sintaz está certa
+-> } upload
+pinMode - M MAIUSCULO
+
+OUTPUT - ligar
+input -
+digitalWrite - ligar ou desligar / não funciona sem o OUTPUT
+HIGH ou 1 - liga a saida 
+LOW ou 0 - desliga a sainda
