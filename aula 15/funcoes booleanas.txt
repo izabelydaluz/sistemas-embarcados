@@ -1,0 +1,15 @@
+
+
+funções boolenas
+
+(() && ())
+E -> &&
+ou -> ||
+XOR -> ^ (inverte as coisas)
+not -> !
+
+at1 = contagem com up - fiz
+at2 =contagem inversa - DOW e up tbm
+at3 = valor pernace entre 0 e 50, se estiver 0 led 1 liga, se estiver 50 o led 2 liga e 1 desliga
+at4 = contagem binaria
+
