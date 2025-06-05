@@ -1,0 +1,28 @@
+# define pin_led1 8; -> define uma porta(led ou botão)
+# define pin_led2 12;
+# define pin_botao1 9;
+
+
+void setup() {
+  pinMode(pin_led1, OUTPUT); -> define qual o tipo de entrada será (saida ou entrada de dados)
+  pinMode(pin_led2, OUTPUT);
+ Serial.begin(9600) -> velocidade de comunção
+
+}
+
+void loop() {
+  digitalWrite("porta", estado); 0(LOW) ou 1(HIGH) / vai ler o led
+  delay("tempo");
+  digitalRead("porta"); -> vai ler o botão
+
+ // bool estado = digitalRead(botao1) -> forma maior(não tao direta)
+  if (digitalRead(botao1 == 1)) -> forma mais direta e rapida
+}
+ && = and -> e
+ || = or = ou
+ ^= xor -> inverte
+ != diferente de 
+
+1 bit -> bool: 1 ou 0
+int: (-273 á 273)
+char: letras
