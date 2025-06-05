@@ -1,0 +1,28 @@
+#define pin_led1 8  // definindo o pino 8 como led 1
+
+void setup() {
+  Serial.begin(9600); // velocidade de comunicação
+  pinMode(pin_led1, OUTPUT); // estou dizendo que o led 1 iré ligar
+}
+
+void loop() {
+  if (Serial. available() == 1) {
+     char i = Serial.read();
+     Serial.println(i);
+  }
+  Serial.println("liga led"); // irá fazer o comando ate o proximo print
+  digitalWrite(pin_led1, HIGH); // estou programando o led 1 para ligar= HIGH
+  delay(1000); // estou obrigando o programa a parar
+  Serial.println("desliga led") ;
+  digitalWrite(pin_led1, LOW); // estou programando o led 1 para desligar= LOW
+  delay(1000);
+
+}
+
+bool = ocupa 1 bt (0 ou 1)
+char =  8 bts (-128 a 127)
+ursignd char = 8 bts (0 a 256) ou bite
+int = 16 bts (- 32768 a 10767)
+ursignd int = 16 bts (0 a 65535)
+bng = 32 bts
+float = 32 bts -> ponto flutuante (numero com virgula)
