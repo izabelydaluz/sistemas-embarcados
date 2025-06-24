@@ -1,7 +1,7 @@
 
 const int led1 = 2;
 const int led2 = 3;
-const int led3 = 4;
+const int LED3 = 4;
 const int led4 = 5;
 
 unsigned long tempoAnterior = 0;
