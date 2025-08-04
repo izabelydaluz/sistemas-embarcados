@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelydaluz&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="SQL" width="40" height="40"/>
 </p>
 
 
