@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelydaluz&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/>
   
 </p>
@@ -15,4 +15,5 @@
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="SQL" width="40" height="40"/>
 </p>
